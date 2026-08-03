@@ -105,3 +105,6 @@ instead of
 ## Pretrained Models
 
 Pretrained models are downloadable at [https://data.lip6.fr/usrlts/](https://data.lip6.fr/usrlts/).
+
+## Added
+run-commands.txt 
