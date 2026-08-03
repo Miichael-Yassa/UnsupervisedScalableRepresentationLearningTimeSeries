@@ -1,4 +1,4 @@
-to get the accuarcy of SVM, F1 score of TICC
+to get the accuarcy of SVM, F1 score of TICC.
 
 Encoder-UCR-Dataset-CommandToRun
 python.exe ucr.py --dataset Adiac --path "C:\Users\VW23R3P\OneDrive - Volkswagen AG\Documents\Tesla\UCRArchive_2018\UCRArchive_2018" --save_path "models\ucr" --hyper "default_hyperparameters.json"
